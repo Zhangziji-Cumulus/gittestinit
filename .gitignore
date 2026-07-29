@@ -1,11 +1,4 @@
 # IDE/编辑器
 .vscode/
 .idea/
-.classpath
-*.suo
-
-# 自定义规则
-# IDE/编辑器
-
-# 自定义规则
-.sw
+*.sln
