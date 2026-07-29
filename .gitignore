@@ -1,4 +1,5 @@
 # IDE/编辑器
 .vscode/
 .idea/
+*.sln.docstates
 *.sln
